@@ -1,5 +1,5 @@
 # osint_submitter
-Template website for submitting solutions to OSINT CTF challenges via a map (through lat/long coords). Hosted at [https://yellowsubmarine.xyz:8000/](https://yellowsubmarine.xyz:8000).
+Template website for submitting solutions to OSINT CTF challenges via a map (through lat/long coords). Hosted at [http://yellowsubmarine.xyz:8000/](http://yellowsubmarine.xyz:8000).
 
 Code is super unclean and probably prone to issues like floating point accuracy and time desyncs.
 
